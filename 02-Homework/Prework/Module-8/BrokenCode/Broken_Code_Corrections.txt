@@ -1,0 +1,13 @@
+Corrections to make:
+
+1. Under the Random Boo Fact Content Box, fix the issue where the button wouldn't show up.
+2. Fix issue where image to the right of the About Boo content box would not load correctly.
+3. Fix Issue where color change buttons below Random Boo Fact Content Box will not function.
+4. Format the List of "Boo's Favorite Things" into an ordered list.
+5. Fix Grow and Shrink buttons under the Content Box of List of Boo's Favorite Things.
+6. Fix Formatting for About Boo Content Box
+7. Added H1 tags to "Boo The Dog Fan Page" Webpage heading. 
+8. Cleaned up indentation and formatting of HTML code to make it easier to maintain.
+9. Add Comments in Javascript and format to make it easier to maintain.
+10. Fix incorrect link name for Javascript
+11. Color change buttons were changing to the wrong colors. Fixed labels.

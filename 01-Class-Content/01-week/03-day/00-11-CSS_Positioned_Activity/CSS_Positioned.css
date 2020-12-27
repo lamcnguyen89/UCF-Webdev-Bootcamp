@@ -1,0 +1,61 @@
+* {
+    box-sizing: border-box;
+}
+
+#fixed {
+    /* First Box to play around with */
+    position: fixed;
+    top: 0;
+    left: 0;
+    padding: 40px;
+    margin: 0;
+    text-align: center;
+    background: #eee;
+}
+
+#relative {
+    /* Second Box to play around with */
+    position: relative;
+    height: 200px;
+    padding: 20px;
+    margin-bottom: 20px;
+    text-align: center;
+    background: #eee;
+}
+
+#absolute {
+    /* Third Box to play around with */
+    position: absolute;
+    right: -30px;
+    bottom: 0;
+    width: 250px;
+    padding: 20px;
+    text-align: center;
+    background: #999;
+}
+
+.wrapper {
+    width: 600px;
+    padding: 20px;
+    margin: 0 auto;
+}
+
+body {
+    font-size: 24px;
+    line-height: 32px;
+    color: #333;
+}
+
+h1 {
+    margin-bottom: 20px
+    font-size: 18px;
+    line-height: 45px;
+}
+
+p {
+    margin-bottom: 20px;
+    font-size: 18px;
+    line-height: 28px;
+}
+
+

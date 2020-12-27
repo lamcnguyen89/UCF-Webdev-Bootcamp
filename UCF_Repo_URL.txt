@@ -1,0 +1,44 @@
+https://github.com/UCF-Coding-Boot-Camp/UCF-ORL-FSF-FT-06-2020-U-C.git
+
+
+// The command to pull from UCF Repo is: "git pull https://github.com/UCF-Coding-Boot-Camp/UCF-ORL-FSF-FT-06-2020-U-C.git"
+    
+//But it's without the quotations
+
+// The command order to push the changes I made from my local machine to the Repo on my User Account is:
+     
+	// "Git Status"
+     
+	//"Git add ."
+     
+	//"Git Commit"
+     
+	//"Git Push"
+
+
+
+// There is alot of other shit to learn about Version control using Git, but I'll figure it out in time.
+
+
+git checkout -b newbranchname: creates a new branch on the group repo. Name the branch after a feature.
+git push origin homepage(or whatever the name of the branch we are working on is).
+Everyone makes a new branch for everytime we build something new, work on that branch and then merge it in eventually to the master.
+
+It is suggested that we delete that branch after we finish uploading the code for a specific feature into a branch for a specific feature.
+
+Create a new branch for a new feature.
+
+git checkout master : takes you to another already created branch
+git checkout -b (branch name): creates a new branch
+
+For a pull request be specific: For example, I want to get the title and description on the page for everyone else.
+
+
+Branch Protection rules:
+	Branch name pattern: *master
+	Require pull request reviewa before merging
+	Include Administrators
+
+	another person on the repo will then have to approve the feature.
+
+Always checkout to a new branch when working on a new feature.

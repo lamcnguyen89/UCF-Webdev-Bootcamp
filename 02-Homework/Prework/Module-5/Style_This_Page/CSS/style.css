@@ -1,0 +1,62 @@
+h1 {
+    text-align: center;
+}
+
+p.red {
+    color: red;
+}
+
+p.blue {
+    color: blue;
+}
+
+p.green {
+    color:green;
+}
+
+p.center {
+    text-align: center;
+}
+
+p.weight {
+    font-weight: bold;
+}
+
+p.big {
+    font-size: 50px;
+}
+
+p.small {
+    font-size: 12px;
+}
+
+p.font_01 {
+    font-family: Arial, Verdana, Tahoma, Helvetica, sans-serif;
+/*
+Font families are groupings of fonts with similar designs. 
+Fonts within a family differ from each other in style such as weight and slant
+The five font families are: serif, sans-serif, cursive, fantasy, and monospace
+Font-family format is to list fonts, a backup font, and then the font family.
+*/
+}
+
+p.multi {
+   font-size: 35px;
+   font-weight: bold;
+   color: orange; 
+}
+
+p.styledFont {
+    font-style: oblique;
+    font-weight: normal;
+    font-variant: normal;
+    color: blue;
+}
+
+img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    border: 1px solid blueviolet;
+    border-radius: 8px;
+}
